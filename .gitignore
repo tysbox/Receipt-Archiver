@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.DS_Store
+.vscode/
+.idea/
+.cache/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/.pnp\n.pnp.jsnode_modules
